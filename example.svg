@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="850" height="850" viewBox="-425.0 -425.0 850 850">
+<defs>
+</defs>
+<circle cx="0" cy="0" r="400" fill="transparent" stroke-width="2" stroke="black" />
+<path d="M400,0 L-400,0" stroke-width="1" stroke="red" />
+<path d="M0,-400 L0,400" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="22.22222222222222" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="22.22222222222222" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="44.44444444444444" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="44.44444444444444" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="66.66666666666666" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="66.66666666666666" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="88.88888888888889" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="88.88888888888889" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="111.11111111111111" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="111.11111111111111" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="133.33333333333331" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="133.33333333333331" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="155.55555555555554" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="155.55555555555554" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="177.77777777777777" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="177.77777777777777" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="200.0" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="200.0" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="222.22222222222223" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="222.22222222222223" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="244.44444444444443" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="244.44444444444443" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="266.66666666666663" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="266.66666666666663" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="288.88888888888886" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="288.88888888888886" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="311.1111111111111" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="311.1111111111111" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="333.3333333333333" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="333.3333333333333" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="355.55555555555554" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="355.55555555555554" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="400" ry="377.77777777777777" fill="transparent" stroke-width="1" stroke="red" />
+<ellipse cx="0" cy="0" rx="377.77777777777777" ry="400" fill="transparent" stroke-width="1" stroke="red" />
+</svg>
